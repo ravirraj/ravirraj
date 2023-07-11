@@ -1,6 +1,6 @@
-- 👋 Hi, I’m raviraj
+- 👋 Hi, I’m Raviraj
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me Instagram :- @ravirraj_patil
 <!---
